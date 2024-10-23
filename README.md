@@ -1,4 +1,4 @@
-# Democrit for EVM Chains
+# Democrit for EVM Chains 
 
 This repository contains the smart contracts required to implement
 Democrit (atomic trading) for Xaya applications running on EVM-based
